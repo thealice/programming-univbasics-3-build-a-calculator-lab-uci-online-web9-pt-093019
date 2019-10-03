@@ -19,8 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  if num > 0
     p Math.sqrt(num)
-  else
-    p "you must enter a number larger than 0"
 end
